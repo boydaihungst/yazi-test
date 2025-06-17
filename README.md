@@ -1,6 +1,6 @@
 # Step to reproduce the bug
 
-Step 1: Open this `bash` command to create invalid UTF-8 folder: 
+Step 1: Run this `bash` command to create invalid UTF-8 folder: 
 ```bash
 mkdir $'\xED\xBD\xB7\xED\xBC\xB2'
 ```
