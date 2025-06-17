@@ -6,7 +6,7 @@ mkdir $'\xED\xBD\xB7\xED\xBC\xB2'
 ```
 Step 2: Start yazi: `YAZI_LOG=debug yazi`.
 
-Step 3: Hover over the invalid UTF-8 folder, then cut and move it to away from current cwd.
+Step 3: Hover over the invalid UTF-8 folder, then cut and move it away from current cwd.
 Step 4: Check the log file.
 
 
